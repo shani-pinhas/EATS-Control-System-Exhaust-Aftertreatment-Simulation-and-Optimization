@@ -1,0 +1,2 @@
+# EATS-Control-System-Exhaust-Aftertreatment-Simulation-and-Optimization
+This project focuses on EATS (Exhaust Aftertreatment System) control, which refers to the processes and mechanisms used to regulate and optimize the performance of systems that handle exhaust gases, primarily from fuel-based engines. The control system aims to improve emission reduction efficiency and ensure stable engine operation.
